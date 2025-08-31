@@ -43,7 +43,7 @@ I completed a full **Machine Learning Course**, building several models such as 
 ## 📬 Connect with Me
 - [GitHub Profile](https://github.com/sudharsann18)  
 - [LinkedIn](https://www.linkedin.com/in/sudharsann-cs-7942422a2)  
-- [Email](mailto:sudharsannnani@gmail.com)  
+- 📧 Email: [sudharsannani@gmail.com](mailto:sudharsannani@gmail.com)
 
 ---
 
