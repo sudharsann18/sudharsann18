@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm C.S. Sudharsann  
 
-<!--
-**sudharsann18/sudharsann18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in **Artificial Intelligence & Data Science**  
+📍 Based in **Chennai, India**  
+🌱 Currently exploring **Machine Learning, Data Science, and AI Applications**  
+💡 Passionate about **predictive modeling, real-world datasets, and AI-driven solutions**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Sudharsann's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharsann18&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsann18&layout=compact&theme=radical)  
+
+---
+
+## 🏆 Achievements & Projects
+- 🩺 **Heart Disease Predictor** → Machine Learning model to analyze health data and predict risks  
+- 📓 **CODSOFT Internship Projects** → Hands-on AI/ML tasks using Python & Jupyter Notebook  
+- 🔍 Exploring **real-world datasets** for Data Science projects  
+
+---
+
+## 📬 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [sudharsann18](https://github.com/sudharsann18)
